@@ -1,12 +1,22 @@
-<h1 align="center">Hello World! 👋</h1></br>
 
-<p>Welcome to my GitHub profile!
+![pixel-jeff-matrix-s](https://user-images.githubusercontent.com/99276535/166554655-41470f95-a2fb-488f-8703-2b24295d4692.gif)
+
+<div align="right">
+<a href="https://instagram.com/rafaellaborba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "rafaellavborba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-borba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div></br>
+
+<h1 align="center">Hello World! 👋</h1></br>
+<div flex-columns>
+<p>Welcome to my GitHub profile!</p>
   
-I'm Rafaella Borba, postgraduate student in Full Stack Web Development.</br>
+
+  <p>I'm Rafaella Borba, postgraduate student in Full Stack Web Development.</br>
 (oh that sounds so nice in my head :heart_eyes:)</br>
 I'm 29 yo, major in Foreing Trade for 3 y and now I'm transitioning to technology, currently looking for a job opportunity. I live in Ribeirão Preto, Brazil,
 but I don't seem problem with moving out.
-</p></br>
+</p></br></div>
 
 
 
@@ -26,8 +36,8 @@ and their frameworks.
   </div>
 </br></br>
 
-<h3 align="center"> Now, please, grab a cup of coffee, take a sit and let's code!</h3>
 
+<p align="center" >But now, please, grab a cup of coffee, take a sit and let's code! </br></br><img src="https://user-images.githubusercontent.com/99276535/166556133-976f1928-0f78-4861-be3a-dd7d8867b4e6.gif" width="300" height="300"></p>
 
 
 <!--
