@@ -37,7 +37,7 @@ and their frameworks.
 </br></br>
 
 
-<p align="center" >But now, please, grab a cup of coffee, take a sit and let's code! </br></br><img src="https://user-images.githubusercontent.com/99276535/166556133-976f1928-0f78-4861-be3a-dd7d8867b4e6.gif" width="300" height="300"></p>
+<h3 align="center" >But now, please, grab a cup of coffee, take a sit and let's code! </br></br><img src="https://user-images.githubusercontent.com/99276535/166556133-976f1928-0f78-4861-be3a-dd7d8867b4e6.gif" width="300" height="300"></h3>
 
 
 <!--
