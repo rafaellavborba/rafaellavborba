@@ -19,10 +19,10 @@ and their frameworks.
 
 
 <h2 align="center">Here is my stats:</h2></br>
-<div align="center">
+<div align="center" >
   <a href="https://github.com/rafaellavborba">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellavborba&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellavborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellavborba&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaellavborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
   </div>
 </br></br>
 
