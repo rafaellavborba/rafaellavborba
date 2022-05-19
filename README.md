@@ -29,7 +29,7 @@ and their frameworks.
 
 
 <h2 align = "center">Here are my stats:</h3>
-   <div>
+   <div align = "center">
   <a href="https://github.com/rafaellavborba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellavborba&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellavborba&layout=compact&langs_count=7&theme=gruvbox" />
