@@ -28,6 +28,14 @@ but I don't seem problem with moving out.
 and their frameworks.
 
 
+<h2 align = "center">Here are my stats:</h3>
+   <div>
+  <a href="https://github.com/hansbonini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hansbonini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansbonini&layout=compact&langs_count=7&theme=gruvbox" />
+ </a>
+</div>
+  
 
 
 <h3 align="center" >But now, please, grab a cup of coffee, take a sit and let's code! </br></br><img src="https://user-images.githubusercontent.com/99276535/166556133-976f1928-0f78-4861-be3a-dd7d8867b4e6.gif" width="300" height="300"></h3>
