@@ -14,7 +14,7 @@
 
   <p>I'm Rafaella Borba, postgraduate student in Full Stack Web Development.</br>
 (oh that sounds so nice in my head :heart_eyes:)</br>
-I'm 29 yo, major in Foreing Trade for 3 y and now I'm transitioning to technology, currently looking for a job opportunity. I live in Ribeirão Preto, Brazil,
+I'm 29 yo, major in Foreing Trade for 3 y and now I'm front end developer 😍 living in Ribeirão Preto, Brazil,
 but I don't seem problem with moving out.
 </p></br></div>
 
