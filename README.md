@@ -12,10 +12,9 @@
 <p>Welcome to my GitHub profile!</p>
   
 
-  <p>I'm Rafaella Borba, postgraduate student in Full Stack Web Development.</br>
-(oh that sounds so nice in my head :heart_eyes:)</br>
-I'm 29 yo, major in Foreing Trade for 3 y and now I'm front end developer 😍 living in Ribeirão Preto, Brazil,
-but I don't seem problem with moving out.
+  <p></br>
+  I am passionate about the technology field and have dedicated my career to studying and honing my skills in this area. I initially graduated in International Trade, an area that sparked my interest. However, my love for technology ultimately won me over, and I decided to shift my career in that direction.</br>
+  My key skills include HTML, CSS, JavaScript, and frameworks such as React.js and Vue. I have experience in creating user-friendly and responsive interfaces, ensuring a great user experience. Additionally, I am a dedicated professional, always seeking continuous improvement and innovative solutions to technological challenges.
 </p></br></div>
 
 
