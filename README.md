@@ -9,12 +9,16 @@
 
 <h1 align="center">Hello World! 👋</h1></br>
 <div flex-columns>
-<p>Welcome to my GitHub profile!</p>
-  
+<p>Welcome to my GitHub!</p>
 
   <p></br>
-  I am passionate about the technology field and have dedicated my career to studying and honing my skills in this area. I initially graduated in International Trade, an area that sparked my interest. However, my love for technology ultimately won me over, and I decided to shift my career in that direction.</br>
-  My key skills include HTML, CSS, JavaScript, and frameworks such as React.js and Vue. I have experience in creating user-friendly and responsive interfaces, ensuring a great user experience. Additionally, I am a dedicated professional, always seeking continuous improvement and innovative solutions to technological challenges.
+    I am a passionate software developer with 4 years of professional experience in the technology field. I hold a Bachelor’s degree in Systems Analysis and Development, a postgraduate degree in Full Stack       Development, and a postgraduate degree in Cybersecurity and Cyber Defense.
+    </br>
+    My main skills include JavaScript with modern frameworks such as React.js and Vue.js. I have solid experience in building responsive, scalable, and user-friendly interfaces, always focused on performance, usability, and clean code.
+    </br>
+I am a committed and proactive professional, continuously improving my technical skills and staying up to date with new technologies and security best practices. I enjoy solving complex problems and creating efficient, innovative solutions through technology.
+    </br>
+🚀 Always learning. Always building.
 </p></br></div>
 
 
