@@ -48,7 +48,7 @@ I am a **Software Developer** with **4+ years of professional experience** build
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
